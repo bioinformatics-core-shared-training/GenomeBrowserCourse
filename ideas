@@ -6,6 +6,8 @@
     - Taking screenshots
     - BEDtools
     - Motif finder; http://www.broadinstitute.org/software/igv/node/251
+    - BLAT search; http://www.broadinstitute.org/software/igv/BLAT
+    
 - Other browsers
     - HiC-specific browsers?
     - Data portals (e.g. TCGA, ICGC, cbioportal)
