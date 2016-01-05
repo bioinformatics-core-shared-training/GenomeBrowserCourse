@@ -5,7 +5,7 @@
 - IGV
     - Taking screenshots
     - BEDtools
-    
+    - Motif finder; http://www.broadinstitute.org/software/igv/node/251
 - Other browsers
     - HiC-specific browsers?
     - Data portals (e.g. TCGA, ICGC, cbioportal)
