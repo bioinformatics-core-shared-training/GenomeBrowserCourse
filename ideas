@@ -3,7 +3,7 @@
 - (general) More workflow-based practicals
 
 - IGV
-    - Taking screenshots
+    - Taking screenshots (N.B. bedtools has a tool to make the script)
     - BEDtools
     - Motif finder; http://www.broadinstitute.org/software/igv/node/251
     - BLAT search; http://www.broadinstitute.org/software/igv/BLAT
